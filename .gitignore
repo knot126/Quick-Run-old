@@ -1,0 +1,42 @@
+# Folders
+build/
+baked/
+
+# Python
+__pycache__/
+*.pyc
+
+# ################################################################
+
+# Compiled files...
+# Dynamic Libraries
+*.so
+*.dll
+
+# Output Binaries
+*.exe
+*.out
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Output builds
+*.zip
+*.tar
+*.gz
+*.cwd
+
+# ################################################################
+
+# Log files
+*.log
+
+# Dolphin
+.directory
