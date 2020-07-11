@@ -1,13 +1,13 @@
 -- English (US) translation for QuickRun
 -- lua 5.4 const
 
-const mode_easy = 0
-const mode_normal = 1
-const mode_hard = 2
-const mode_coop = 3
-const mode_story = 4
-const mode_boss = 5
-const mode_count = 6
+local mode_easy <const> = 0
+local mode_normal <const> = 1
+local mode_hard <const> = 2
+local mode_coop <const> = 3
+local mode_story <const> = 4
+local mode_boss <const> = 5
+local mode_count <const> = 6
 
 function init() 
     -- Translations using lua. This should allow for more dynamic text processing for special cases in diffrent languages.
