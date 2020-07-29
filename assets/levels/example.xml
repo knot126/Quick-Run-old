@@ -1,0 +1,12 @@
+<!-- Start of a level tag 
+     total: The total score that this level will be scaled to -->
+<level total="1000">
+    <!-- Stage (room) tag
+         type: The stage to be used (rel. to /stages) 
+         score: The score that this will be counted as (unscaled) 
+         
+         Other paramaters are passed to the level using mgSet/GetValue. -->
+    <stage type="cave/begin" score="300" testparam1="true" testparam2="3290"/>
+    <stage type="cave/mid" score="300"/>
+    <stage type="cave/end" score="300"/>
+</level>
