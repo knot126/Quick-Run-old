@@ -1,7 +1,7 @@
 #include "test.hpp"
 #include <iostream>
 
-int printText() {
+int MainLoop() {
     std::cout << "test\n";
     return 0;
 }
