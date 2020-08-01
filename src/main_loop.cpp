@@ -1,7 +1,16 @@
-#include "test.hpp"
-#include <iostream>
+// export module quick_run.main_loop;
 
-int MainLoop() {
-    std::cout << "test\n";
-    return 0;
+#include <string>
+
+#include "physics.cpp"
+#include "graphics.cpp"
+
+namespace QuickRun {
+    bool exit = false;
+    
+    int MainLoop() {
+        while (!exit) {
+            
+        }
+    }
 }

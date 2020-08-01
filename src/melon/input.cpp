@@ -1,5 +1,0 @@
- 
-
-namespace Melon {
-    
-} // InputHandler
