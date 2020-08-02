@@ -1,6 +1,7 @@
 <!-- Start of a level tag 
-     total: The total score that this level will be scaled to -->
-<level total="1000">
+     total: The total score that this level will be scaled to (old - now always scaled to a thousand.)
+     name: The name of the area to be shown to the player -->
+<level total="1000" name="Cave">
     <!-- Stage (room) tag
          type: The stage to be used (rel. to /stages) 
          score: The score that this will be counted as (unscaled) 

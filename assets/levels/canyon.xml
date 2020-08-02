@@ -1,4 +1,4 @@
-<level total="1000" name="Canyon">
+<level name="Canyon">
     <stage type="canyon/bouce" score="200" start="true" end="true"/>
     <stage type="canyon/midway" score="250" start="true" end="false"/>
     <stage type="canyon/midway" score="250" start="false" end="true"/>

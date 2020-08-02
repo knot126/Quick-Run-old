@@ -1,0 +1,8 @@
+<level name="Underground">
+    <stage type="cave/jumping" score="220" start="true" end="true"/>
+    <stage type="cave/midway" score="160" start="true" end="false"/>
+    <stage type="cave/midway" score="120" start="false" end="true"/>
+    <stage type="cave/bottom" score="270" start="true" end="false"/>
+    <stage type="cave/bottom" score="200" start="false" end="false"/>
+    <stage type="cave/bottom" score="330" start="false" end="true"/>
+</level>
